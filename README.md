@@ -39,3 +39,4 @@ Instead of boring keyword search, you can type in **natural language vibes** lik
 - **Deployment Ready:** Works locally, easy to containerize with Docker  
 
 ---
+<img width="1887" height="893" alt="1" src="https://github.com/user-attachments/assets/41a17d3a-c14d-492c-9a2d-cc147ea26bc3" />
