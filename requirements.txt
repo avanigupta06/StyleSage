@@ -1,0 +1,23 @@
+ipykernel
+
+# Core Web Framework
+Flask==3.0.0
+
+# NLP & Embeddings
+sentence-transformers==2.2.2
+transformers==4.35.2
+ctransformers==0.2.5
+
+# Data Handling
+pandas==2.1.1
+numpy>=1.26.4,<2.0.0
+
+# Pinecone Integration
+pinecone-client==2.2.4
+pinecone==5.4.2
+langchain-pinecone==0.2.3
+pinecone[grpc]
+langchain==0.3.18
+
+# Environment variables
+python-dotenv==1.0.0
